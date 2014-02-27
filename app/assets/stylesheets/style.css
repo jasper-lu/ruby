@@ -1,0 +1,14 @@
+body {
+	margin:0px;
+	padding:0px;
+	background-color:rgb(245,245,245);
+}
+
+header {
+	background-color:maroon;
+	font-family:trebuchet ms;
+	font-size: 2em;
+	padding:10px;
+	color:white;
+	text-align:center;
+}
